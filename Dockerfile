@@ -5,5 +5,3 @@ COPY . .
 
 EXPOSE 8000
 CMD ["bash","run.sh"]
-
-
